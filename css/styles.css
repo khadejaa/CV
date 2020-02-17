@@ -1,0 +1,94 @@
+body {
+  background-color: #f1fcfc;
+  margin: 0;
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+hr {
+  background-color: #c6f1d6;
+  border-style: dotted none none;
+  border-color: gray;
+  border-width: 5px;
+  width: 5%;
+}
+
+div{
+  align: center;
+}
+
+.bake {
+  background-color: #f1fcfc;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+  color: #633a82;
+  margin-top: 10px;
+}
+
+img{
+  width: 40px;
+}
+
+.img {
+  margin: 15px;
+  width: 150px;
+  background-color: #72b5b7;
+  border-radius: 15%;
+}
+
+
+.circular {
+  border-radius: 100%;
+}
+
+
+.top {
+  background-color: white;
+}
+
+
+.line {
+  padding-top: 0px;
+  margin-top: -5px;
+  background-color: #633a82;
+}
+
+
+.headTable {
+  background-color: #72b5b7;
+  text-align: center;
+}
+
+.BottomDiv {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #633a82;
+  text-align: center;
+  color: white;
+}
+
+.MiddleDiv {
+  margin: auto;
+  width: 40%;
+  text-align: center;
+}
+.Education_left{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 0px;
+}
+.Education_right{
+  display: inline-block;
+  margin-left: 30px;
+  text-align: left;
+}
+.hobbies{
+  margin: auto;
+  text-align: center;
+  width: 12%;
+}
